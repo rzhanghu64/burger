@@ -1,5 +1,5 @@
-CREATE DATABASE mfcc55v8govhfibg;
-USE mfcc55v8govhfibg;
+CREATE DATABASE burgers_db;
+USE burgers_db;
 CREATE TABLE burgers
 (
     id int NOT NULL AUTO_INCREMENT,
